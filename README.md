@@ -47,5 +47,3 @@ This project implements a machine learning pipeline to predict stock price movem
 
 ---
 
-## 🗂️ Project Structure
-
